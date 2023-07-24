@@ -9,5 +9,7 @@ import com.quizapplication.quizapplication.model.Quiz;
 public interface QuizDao extends JpaRepository<Quiz,Integer> {
 
     
+
+    
     
 }
